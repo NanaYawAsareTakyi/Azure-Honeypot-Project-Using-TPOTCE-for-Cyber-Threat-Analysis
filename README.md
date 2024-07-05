@@ -1,4 +1,4 @@
-# Azure-Honeypot-Project-Using-TPOTCE-for-Cyber-Threat-Analysis
+# Proactive Threat Detection with Azure and TPOTCE Honeypot
 Deployed a honeypot on Azure Cloud using TPOTCE from GitHub, managed with PuTTY. Configured virtual resources to detect and respond to cyber threats, enhancing cybersecurity measures.
 
 ## Objective
